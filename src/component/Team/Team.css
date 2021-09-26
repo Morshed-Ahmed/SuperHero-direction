@@ -4,14 +4,13 @@
     grid-gap: 10px;
 }
 
-.doctor-container{
-    
-    border: 1px solid lightblue;
-}
+
 
 .doctor-detils{
     
-    border: 1px solid lightblue;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .cart-style{

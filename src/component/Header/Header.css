@@ -1,6 +1,7 @@
 .header-style{
     text-align: center;
-    background-color: lightblue;
+    background-color: rgb(43, 43, 235);
+    color: white;
     padding: 15px;
     border-radius: 15px;
     margin-bottom: 20px;

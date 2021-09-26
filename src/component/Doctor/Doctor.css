@@ -1,7 +1,7 @@
-.hu{
-    border: 1px solid rebeccapurple;
-    background-color: lightgray;
+.cart-container{
+    border: 1px solid lightgray;
+    background-color: rgb(226, 223, 223);
     border-radius: 5px;
     padding: 5px;
-
 }
+
